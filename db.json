@@ -21,6 +21,28 @@
       "age": 23
     }
   ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Sơn Trịnh",
+      "age": 20
+    },
+      {
+      "id": 2,
+      "name": "Nguyễn Văn A",
+      "age": 19
+    },
+      {
+      "id": 3,
+      "name": "Trần Thị B",
+      "age": 24
+    },
+      {
+      "id": 4,
+      "name": "Hoàng Văn C",
+      "age": 23
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
