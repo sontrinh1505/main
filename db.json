@@ -21,7 +21,10 @@
       "age": 23
     }
   ],
-  "students": [
+  "profile": {
+    "name": "typicode"
+  },
+   "students": [
     {
       "id": 1,
       "name": "Sơn Trịnh",
@@ -43,7 +46,4 @@
       "age": 23
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
