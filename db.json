@@ -1,5 +1,5 @@
 {
-   "students": [
+  "posts": [
     {
       "id": 1,
       "name": "Sơn Trịnh",
@@ -20,12 +20,6 @@
       "name": "Hoàng Văn C",
       "age": 23
     },
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
   ],
   "profile": {
     "name": "typicode"
